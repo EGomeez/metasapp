@@ -1,5 +1,5 @@
 .tarjeta {
-  @apply rounded-xl m-4 text-gray-700 text-xs mx-4 nm-flat-white overflow-hidden
+  @apply rounded-xl m-3 text-gray-700 text-xs mx-4 nm-flat-white overflow-hidden 
 }
 
 .boton {
@@ -23,5 +23,5 @@
 }
 
 .input {
-  @apply nm-inset-gray-100 w-full border rounded-xl h-8
+  @apply nm-inset-gray-100 w-full border rounded-xl h-8 pl-4 text-gray-500
 }
